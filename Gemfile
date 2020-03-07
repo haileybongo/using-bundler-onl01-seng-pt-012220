@@ -6,5 +6,5 @@ gem "sinatra"
 group :deelopment do 
   gem "pry"
   
-  gem 'hashie'
+  gem "hashie"
 end
