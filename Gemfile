@@ -5,4 +5,6 @@ gem "sinatra"
 
 group :deelopment do 
   gem "pry"
+  
+  gem 'hashie'
 end
